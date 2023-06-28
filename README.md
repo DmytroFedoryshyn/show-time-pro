@@ -36,11 +36,16 @@ with the client</li>
 </ul>
 <h3>Used technologies</h3>
 <ul>
-    <li>Java language</li>
-    <li>Spring Framework</li>
-    <li>Hibernate as ORM</li>
-    <li>Tomcat as a servlet container</li>
-    <li>H2 as database management system</li>
+    <li>Java 17</li>
+    <li>Spring MVC</li>
+    <li>Spring Security</li>
+    <li>Hibernate</li>
+    <li>Tomcat 9</li>
+    <li>H2 database</li>
+    <li>REST</li>
+    <li>JSON</li>
+    <li>Jackson</li>
+    <li>Maven</li>
 </ul>
 <h3>How to install and use the project</h3>
 <ol>
