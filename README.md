@@ -35,13 +35,13 @@ with the client</li>
 <li><i>util</i> - contains all utility classes for simplifying some tasks.</li>
 </ul>
 <h3>Used technologies</h3>
-The project was written in Java language using Spring Framework for 
-creating HTTP endpoints for an application and managing security. Hibernate was used as
-an ORM framework.
-Tomcat was also included in the project as 
-a servlet container to facilitate working with 
-servlets. As for database management system,
-H2 was used to interact with the database.
+<ul>
+    <li>Java language</li>
+    <li>Spring Framework</li>
+    <li>Hibernate as ORM</li>
+    <li>Tomcat as a servlet container</li>
+    <li>H2 as database management system</li>
+</ul>
 <h3>How to install and use the project</h3>
 <ol>
 <li>Firstly, you need to install Java for your computer to be able
