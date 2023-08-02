@@ -1,4 +1,4 @@
-# cinema-app
+# ShowTimePro
 This is a simple web application for managing a cinema. <br>
 It allows users to perform a list of different operations
 with cinema halls, movies, movie sessions, orders, shopping carts, 
